@@ -1,0 +1,9 @@
+/* css for spacing form elements */
+
+form {
+    margin: 10px 0;
+}
+
+form > * {
+    margin: 10px 0;
+}
